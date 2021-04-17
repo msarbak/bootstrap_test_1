@@ -1,0 +1,30 @@
+.center {
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+li {
+    color: gray;
+    font-size:x-large;
+}
+.header{
+    padding: 5px 5px;
+    background-color: #525252;
+    overflow: hidden;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+
+.headerli a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align:right;
+  padding: 5px 5px;
+  text-decoration: none;
+  float: left;
+}
+
+.headerli a:hover {
+  text-decoration: underline;
+}
